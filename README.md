@@ -54,11 +54,15 @@
      右键复制图片地址，贴到上面替换 src 即可。
 ───────────────────────────────────────────── -->
 
-<!-- ─────────────────────────────────────────────
-     可选：贡献贪吃蛇（需要先启用 .github/workflows/snake.yml
-     并手动跑一次 Action 生成 output 分支，之后取消注释）
-<img src="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake.svg" width="100%"/>
-───────────────────────────────────────────── -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake.svg" width="100%" alt="github contribution snake"/>
+</picture>
+
+</div>
 
 <div align="center">
 
