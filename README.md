@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="assets/neon.gif" width="400" alt="neon pixel"/>
+<img src="assets/neon.webp" width="400" alt="neon pixel"/>
 
 </div>
 
@@ -43,9 +43,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake.svg?v=3" />
-  <img src="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake.svg?v=3" width="100%" alt="github contribution snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Atomsk-m4lu/Atomsk-m4lu@output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Atomsk-m4lu/Atomsk-m4lu@output/github-contribution-grid-snake.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/Atomsk-m4lu/Atomsk-m4lu@output/github-contribution-grid-snake.svg" width="100%" alt="github contribution snake"/>
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&pause=2000&color=B39DDB&center=true&vCenter=true&width=480&height=60&lines=TAKE+IT+SLOW)](https://github.com/Atomsk-m4lu)
