@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="assets/neon.webp" width="400" alt="neon pixel"/>
+<img src="https://cdn.jsdelivr.net/gh/Atomsk-m4lu/Atomsk-m4lu@output/assets/neon.webp" width="400" alt="neon pixel"/>
 
 </div>
 
