@@ -8,13 +8,11 @@
 ![🤖](https://img.shields.io/badge/%F0%9F%A4%96-Learning_AI_Agents-dc2626?style=flat-square)
 ![🎮](https://img.shields.io/badge/%F0%9F%8E%AE-pixel_enjoyer-4c1d95?style=flat-square)
 
-<img src="assets/soft_pixel.gif" width="560"/>
-
 </div>
 
 <div align="center">
 
-<img src="assets/neon.gif" width="480" alt="neon pixel"/>
+<img src="assets/neon.gif" width="400" alt="neon pixel"/>
 
 </div>
 
@@ -23,6 +21,8 @@
 <img src="https://komarev.com/ghpvc/?username=Atomsk-m4lu&color=dc2626&style=flat-square&label=visitors"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:dc2626,100:7c3aed" width="100%"/>
 
 <div align="center">
 
@@ -37,6 +37,8 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-059387?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://python.langchain.com/) [![LangGraph](https://img.shields.io/badge/LangGraph-DC2626?style=flat-square&logo=langgraph&logoColor=white)](https://langchain-ai.github.io/langgraph/) [![JVM/JUC](https://img.shields.io/badge/JVM_JUC-4C1D95?style=flat-square)](https://dev.java/)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,100:dc2626" width="100%"/>
 
 <div align="center">
 
