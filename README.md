@@ -41,11 +41,17 @@
 
 </div>
 
+<div align="center">
+
+<img src="assets/neon.gif" width="480" alt="neon pixel — the eye that never sleeps"/>
+
+<sub><code>his.txt :: the boy who covers one eye — and the eye that never sleeps</code></sub>
+
+</div>
+
 <!-- ─────────────────────────────────────────────
-     可选：二次元 GIF 位（换成你喜欢的动图）
-     去 tenor.com 搜 "lain anime gif" / "flcl guitar gif"，
-     右键复制图片地址，贴到下面替换 src 即可：
-     <img src="https://media.tenor.com/xxxx.gif" width="420"/>
+     想换别的二次元动图：去 tenor.com 搜 "lain anime gif" / "flcl guitar gif"，
+     右键复制图片地址，贴到上面替换 src 即可。
 ───────────────────────────────────────────── -->
 
 <!-- ─────────────────────────────────────────────
