@@ -34,34 +34,17 @@
 
 <h2><samp>🧰 toolbox</samp></h2>
 
-![Java](https://img.shields.io/badge/Java-8%2B-b07219?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.x-6db33f?style=flat-square&logo=springboot&logoColor=white)
 ![MyBatis-Plus](https://img.shields.io/badge/MyBatis_Plus-ORM-1e293b?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-learning-3776ab?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-learning-059387?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-learning-dc2626?style=flat-square&logo=langgraph&logoColor=white)
 
 <br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-8.x-4479a1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-caching-dc382d?style=flat-square&logo=redis&logoColor=white)
-![RocketMQ](https://img.shields.io/badge/RocketMQ-async-dc2626?style=flat-square&logo=apacherocketmq&logoColor=white)
-
-<br/>
-
-![Git](https://img.shields.io/badge/Git-版本控制-f05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-构建-c71a36?style=flat-square&logo=apache%20maven&logoColor=white)
-![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-主力-087cfa?style=flat-square&logo=intellijidea&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-压测-d22128?style=flat-square&logo=apachejmeter&logoColor=white)
-![Arthas](https://img.shields.io/badge/Arthas-诊断-7c3aed?style=flat-square)
-
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-learning-2496ed?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-learning-111827?style=flat-square&logo=linux&logoColor=fcc624)
 ![JVM/JUC](https://img.shields.io/badge/JVM_JUC-deep_dive-4c1d95?style=flat-square)
 ![SpringCloud](https://img.shields.io/badge/SpringCloud-learning-6db33f?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-learning-1c3c3c?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-learning-dc2626?style=flat-square&logo=langgraph&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-压测-d22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Arthas](https://img.shields.io/badge/Arthas-诊断-7c3aed?style=flat-square)
 
 </div>
 
