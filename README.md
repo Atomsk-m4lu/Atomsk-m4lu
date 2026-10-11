@@ -51,9 +51,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake.svg" width="100%" alt="github contribution snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/Atomsk-m4lu/Atomsk-m4lu/output/github-contribution-grid-snake.svg?v=2" width="100%" alt="github contribution snake"/>
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&pause=2000&color=B39DDB&center=true&vCenter=true&width=480&height=60&lines=TAKE+IT+SLOW)](https://github.com/Atomsk-m4lu)
