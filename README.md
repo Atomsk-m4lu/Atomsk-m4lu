@@ -1,58 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:ff2e88,50:8a2be2,100:00e5ff&text=ATOMSK&stroke=00e5ff&strokeWidth=2&fontSize=68&animation=twinkling&desc=M4LU%20%7C%20THE%20WIRED&descAlignY=78&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:7c3aed,50:0a0a12,100:dc2626&text=ATOMSK&fontSize=64&animation=fadeIn&desc=M4LU&descAlignY=75" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&random=false&width=760&height=90&lines=%E2%96%92%E2%96%92+PRESENT+DAY%2C+PRESENT+TIME.+%E2%96%92%E2%96%92;NO+MATTER+WHERE+YOU+GO%2C+EVERYONE%27S+CONNECTED.;NEVER+SEE+ME+AGAIN.)](https://github.com/Atomsk-m4lu)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff2e88,100:00e5ff" width="100%"/>
-
-</div>
-
-```text
-┌──────────────────────────────────────────┐
-│  > booting the_wired ................ OK  │
-│  > identity   : [REDACTED]               │
-│  > location   : [REDACTED]               │
-│  > mood       : (⌒_⌒;)                   │
-│  > signal     : ████████░░  never lose   │
-└──────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![serial experiments LAIN](https://img.shields.io/badge/serial_experiments-LAIN-8a2be2?style=for-the-badge)
-![FLCL](https://img.shields.io/badge/F.L.C.L.-PIRATE_KING-ff2e88?style=for-the-badge)
-![the wired](https://img.shields.io/badge/the_wired-CONNECTED-00e5ff?style=for-the-badge)
-![cafe](https://img.shields.io/badge/cafe-CYBERIA-grey?style=for-the-badge)
-
-<img src="https://komarev.com/ghpvc/?username=Atomsk-m4lu&color=ff2e88&style=for-the-badge&label=SIGNALS"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1500&color=B39DDB&center=true&vCenter=true&width=620&height=70&lines=hello+%3A%29;pixel+by+pixel%2C+day+by+day;take+it+slow)](https://github.com/Atomsk-m4lu)
 
 </div>
 
 <div align="center">
 
-> *"no matter where you are, everyone is connected."*
->
-> `:: the wired never sleeps ::`
+<img src="assets/soft_pixel.gif" width="560"/>
 
 </div>
 
 <div align="center">
 
-<img src="assets/neon.gif" width="480" alt="neon pixel — the eye that never sleeps"/>
-
-<sub><code>his.txt :: the boy who covers one eye — and the eye that never sleeps</code></sub>
+<img src="assets/neon.gif" width="480" alt="neon pixel"/>
 
 </div>
 
-<!-- ─────────────────────────────────────────────
-     想换别的二次元动图：去 tenor.com 搜 "lain anime gif" / "flcl guitar gif"，
-     右键复制图片地址，贴到上面替换 src 即可。
-───────────────────────────────────────────── -->
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Atomsk-m4lu&color=dc2626&style=flat-square&label=visitors"/>
+
+</div>
 
 <div align="center">
 
@@ -66,6 +40,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00e5ff,100:ff2e88&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:dc2626,100:4c1d95&section=footer" width="100%"/>
 
 </div>
