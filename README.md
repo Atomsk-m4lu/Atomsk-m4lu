@@ -16,12 +16,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Atomsk-m4lu&color=dc2626&style=flat-square&label=visitors"/>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:dc2626,100:7c3aed" width="100%"/>
 
 <div align="center">
