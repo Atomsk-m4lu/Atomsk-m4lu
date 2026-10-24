@@ -2,11 +2,10 @@
 
 # <samp>👋 I'm Nina, I don't go to school — I'm a code monkey instead.</samp>
 
-#### <samp>☕ Java Backend · 🤖 learning AI Agents · 🎮 pixel enjoyer</samp>
+#### <samp>☕ Java Backend Developer · 🤖 AI Agent Developer</samp>
 
-![☕](https://img.shields.io/badge/%E2%98%95-Java_Backend-7c3aed?style=flat-square)
-![🤖](https://img.shields.io/badge/%F0%9F%A4%96-Learning_AI_Agents-dc2626?style=flat-square)
-![🎮](https://img.shields.io/badge/%F0%9F%8E%AE-pixel_enjoyer-4c1d95?style=flat-square)
+![☕](https://img.shields.io/badge/%E2%98%95-Java_Backend_Developer-7c3aed?style=flat-square)
+![🤖](https://img.shields.io/badge/%F0%9F%A4%96-AI_Agent_Developer-dc2626?style=flat-square)
 
 </div>
 
