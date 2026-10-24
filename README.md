@@ -1,6 +1,6 @@
 <div align="center">
 
-# <samp>👋 I'm Nina, I don't go to school — I ship Java instead.</samp>
+# <samp>👋 I'm Nina, I don't go to school — I'm a code monkey instead.</samp>
 
 #### <samp>☕ Java Backend · 🤖 learning AI Agents · 🎮 pixel enjoyer</samp>
 
