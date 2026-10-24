@@ -1,6 +1,6 @@
 <div align="center">
 
-# <samp>👋 I'm M4LU, backend in training.</samp>
+# <samp>👋 I'm Nina, I don't go to school — I ship Java instead.</samp>
 
 #### <samp>☕ Java Backend · 🤖 learning AI Agents · 🎮 pixel enjoyer</samp>
 
